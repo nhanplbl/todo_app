@@ -1,0 +1,20 @@
+1: Nguyen Trong Nhan - 02-10-2017
+2: 5 types
+3: C: String, Object, Number, Undefined
+4: using typeof operator
+5: C: concat
+6: True
+7: A
+8: True
+9: B: 1 2
+10: 77 7 NaN
+11: Dog
+12: Cat
+14: False
+15: B: number
+16: A: Undefined
+17: C: b
+18: C
+19: B: The third the first
+20: None
+21: D
