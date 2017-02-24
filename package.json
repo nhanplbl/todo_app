@@ -1,0 +1,13 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "browserify": "^14.1.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.3",
+    "request": "^2.79.0",
+    "superagent": "^3.4.4"
+  }
+}

@@ -1,0 +1,28 @@
+.body {
+	margin: 0;
+	padding: 0;
+}
+.todo-container {
+	padding: 0 5%;
+}
+
+.todo-list {
+	max-height: 400px;
+	overflow: auto;
+}
+.todo-input-field {
+	width: 100%;
+    border: none;
+    box-shadow: none;
+    box-sizing: content-box;
+    outline: none;
+}
+.todo-group-btn {
+	margin: 15px 0;
+}
+.dk-btn {
+	margin: 0 20px;
+}
+.row:before, .row:after{
+	display: none !important;
+}

@@ -1,0 +1,19 @@
+.record {
+	width: 100%;
+	float: left;
+}
+
+#div1 {
+	witdh: 1024px;
+}
+
+.record div{
+	width: 19%;
+	border-right: 1px solid #000;
+	float: left;
+	text-align: center;
+}
+
+.record div:last-child{
+	border-right: none;
+}
